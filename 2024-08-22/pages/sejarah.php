@@ -1,0 +1,1 @@
+SMKN 2 BUDURAN berdiri sejak tahun 1980 bertempat di buduran sidoarjo

@@ -1,0 +1,7 @@
+Jurusan SMKN 2 Buduran
+RPL
+DKV
+BD
+AKUTANSI
+MP
+RPL

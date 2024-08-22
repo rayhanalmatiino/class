@@ -1,0 +1,14 @@
+.header{
+    background-color: red;
+    height: 300px;
+}
+
+.content{
+    background-color: green;
+    height: 300px;
+}
+
+.footer{
+background-color: blue;
+height: 100px;
+}

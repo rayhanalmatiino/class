@@ -1,0 +1,1 @@
+sekolah nya ber ac
