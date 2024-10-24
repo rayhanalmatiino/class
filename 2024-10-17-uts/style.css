@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.kontener {
+    text-align: center;
+} 
+.background {
+    background-image: url(bahan/assets/img/bg-masthead.jpg);
+    background-size: cover;
+    height: 650px;
+
+}
+.kontener button {
+    color: white;
+    background-color: rgb(62, 62, 234);
+    height: 30px;
+    margin-top: 20px;
+
+}
+
+.baris2 {
+    height: 650px;
+    text-align: center;
+    margin-top: 100px;
+    height: 300px;
+}
+
+.baris2 button {
+    color: white;
+    background-color: black;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.baris3 {
+    background-color: rgb(20, 74, 234);
+    height: 250px;
+    text-align: center;
+}
+
+.baris3 h2 {
+ color: azure;
+ margin-top: 100px;
+}
+
+.baris3 h6 {
+    color: goldenrod;
+    margin-top: 100px;
+}
